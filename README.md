@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, my name is Denis</h1>
 <h2 align="center">In the future, I will become a programmer!:smiley:</h2>
 
-![In the future, I will become* a programmer!:smiley:](https://images.unsplash.com/photo-1503252947848-7338d3f92f31?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2378&q=80)
+![In the future, I will become* a programmer!:smiley:]
 
 I live in Russia, Moscow. I began to study the beautiful world of programming. And I try to change my life for the better, at least my own, for starters.
 
