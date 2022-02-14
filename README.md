@@ -1,10 +1,4 @@
 
-# Hi, my name is Denis
+# hello world, my name is Denis
 
 ### I live in Russia, Moscow. I began to study the beautiful world of programming. And I try to change my life for the better. Now I am studying at School 21 (Ecole 42).
-#
-   
-   ![osmosx summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osmosx&theme=dracula)
-   ![osmosx stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osmosx&theme=dracula)
-   ![osmosx stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osmosx&theme=dracula)
-   
