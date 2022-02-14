@@ -1,4 +1,15 @@
 
 # hello world, my name is Denis
 
-### I live in Russia, Moscow. I began to study the beautiful world of programming. And I try to change my life for the better. Now I am studying at School 21 (Ecole 42).
+#### Connect with me:
+[<img src="https://img.shields.io/badge/Telegram-17191e?logo=Telegram&logoColor=000203" alt="Flutter logo" title="Flutter" height="25" />](https://t.me/nenvoy)
+&nbsp;
+[<img src="https://img.shields.io/badge/Linkedin-17191e?logo=linkedin&logoColor=000203" alt="Flutter logo" title="Flutter" height="25" />](https://t.me/nenvoy)
+&nbsp;
+[<img src="https://img.shields.io/badge/Instagram-17191e?logo=Instagram&logoColor=000203" alt="Flutter logo" title="Flutter" height="25" />](https://t.me/nenvoy)
+&nbsp;
+[<img src="https://img.shields.io/badge/Soundcloud-17191e?logo=Soundcloud&logoColor=000203" alt="Flutter logo" title="Flutter" height="25" />](https://t.me/nenvoy)
+&nbsp;
+
+
+
