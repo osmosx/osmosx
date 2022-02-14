@@ -16,7 +16,7 @@
 <!-- [<img src="https://img.shields.io/badge/Linkedin-17191e?logo=linkedin&logoColor=000203" alt="Flutter logo" title="Flutter" height="25" />](https://t.me/nenvoy)
 &nbsp; -->
 
-## projects school 42
+## school 42 projects
 [<img src="https://img.shields.io/badge/libft-f8ff3d?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/libft)
 &nbsp;
 [<img src="https://img.shields.io/badge/get_next_line-50ffef?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/get_next_line)
