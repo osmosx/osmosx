@@ -7,8 +7,6 @@
 
 [<img src="https://img.shields.io/badge/Telegram-17191e?logo=Telegram&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://t.me/nenvoy)
 &nbsp;
-[<img src="https://img.shields.io/badge/Instagram-17191e?logo=Instagram&logoColor=eb7600&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://www.instagram.com/ch3rnyavskiy/)
-&nbsp;
 [<img src="https://img.shields.io/badge/Mixcloud-17191e?logo=Mixcloud&logoColor=c677ff&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://www.mixcloud.com/osmosmusic/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Soundcloud-17191e?logo=Soundcloud&logoColor=ff6301&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://soundcloud.com/osmos_music)
