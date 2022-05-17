@@ -39,4 +39,7 @@
 [<img src="https://img.shields.io/badge/bot-17191e?logo=javascript&logoColor=fffd01&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/bot)
 &nbsp;
 
+## devops projects
+[<img src="https://img.shields.io/badge/leroymerlin-f8ff3d?logo=Docker&logoColor=000203&style=for-the-badge" alt="Docker logo" title="Docker" height="25" />](https://github.com/osmosx/leroymerlin)
+&nbsp;
 
