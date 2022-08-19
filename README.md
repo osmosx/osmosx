@@ -2,7 +2,7 @@
 # Hello world, my name is Denis
 
 <p align="center">
-  <img width="640" src="./img/lonelyday.gif">
+  <img width="860" src="./img/lonelyday.gif">
 </p>
 
 [<img src="https://img.shields.io/badge/Telegram-17191e?logo=Telegram&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://t.me/nenvoy)
