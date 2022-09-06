@@ -32,6 +32,7 @@
 [<img src="https://img.shields.io/badge/fdf-13ff0c?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/fdf)
 &nbsp;
 [<img src="https://img.shields.io/badge/philosophers-ffb42b?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/philosophers)
+&nbsp;
 [<img src="https://img.shields.io/badge/minishell-ff1f27?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/minishell)
 
 ## frontend projects
