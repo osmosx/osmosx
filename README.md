@@ -11,8 +11,6 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Soundcloud-17191e?logo=Soundcloud&logoColor=ff6301&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://soundcloud.com/osmos_music)
 &nbsp;
-<img src="https://img.shields.io/badge/@nenvoy-17191e?logo=Slack&logoColor=fc0000&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />
-&nbsp;
 <!-- [<img src="https://img.shields.io/badge/Linkedin-17191e?logo=linkedin&logoColor=000203" alt="Flutter logo" title="Flutter" height="25" />](https://t.me/nenvoy)
 &nbsp; -->
 
