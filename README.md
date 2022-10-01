@@ -32,6 +32,8 @@
 [<img src="https://img.shields.io/badge/philosophers-ffb42b?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/philosophers)
 &nbsp;
 [<img src="https://img.shields.io/badge/minishell-ff1f27?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/minishell)
+[<img src="https://img.shields.io/badge/C++ Piscine-008080?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/cpp_piscine)
+&nbsp;
 
 ## frontend projects
 [<img src="https://img.shields.io/badge/devosmos-17191e?logo=html5&logoColor=00f62f&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/devosmos)
