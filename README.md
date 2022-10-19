@@ -19,7 +19,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/get_next_line-50ffef?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/get_next_line)
 &nbsp;
-[<img src="https://img.shields.io/badge/printf-29ff16?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/printf)
+[<img src="https://img.shields.io/badge/printf-38761d?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/printf)
 &nbsp;
 [<img src="https://img.shields.io/badge/born2beroot-ff1127?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/born2beroot)
 &nbsp;
@@ -31,7 +31,9 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/philosophers-ffb42b?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/philosophers)
 &nbsp;
-[<img src="https://img.shields.io/badge/minishell-ff1f27?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/minishell)
+[<img src="https://img.shields.io/badge/minishell-990000?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/minishell)
+&nbsp;
+[<img src="https://img.shields.io/badge/cub3d-1286dd?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/cub3d)
 &nbsp;
 [<img src="https://img.shields.io/badge/C++ Piscine-008080?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/cpp_piscine)
 &nbsp;
@@ -43,6 +45,6 @@
 &nbsp;
 
 ## devops projects
-[<img src="https://img.shields.io/badge/leroymerlin-f8ff3d?logo=Docker&logoColor=000203&style=for-the-badge" alt="Docker logo" title="Docker" height="25" />](https://github.com/osmosx/leroymerlin)
+[<img src="https://img.shields.io/badge/leroymerlin-49cd0e?logo=Docker&logoColor=000203&style=for-the-badge" alt="Docker logo" title="Docker" height="25" />](https://github.com/osmosx/leroymerlin)
 &nbsp;
 
