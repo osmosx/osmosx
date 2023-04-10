@@ -38,9 +38,9 @@
 [<img src="https://img.shields.io/badge/inception_of_things-45818e?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/inception_of_things)
 
 ## frontend projects
-[<img src="https://img.shields.io/badge/devosmos-17191e?logo=html5&logoColor=00f62f&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/devosmos)
+[<img src="https://img.shields.io/badge/devosmos-ffd966?logo=html5&logoColor=cc0000&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/devosmos)
 &nbsp;
-[<img src="https://img.shields.io/badge/bot-17191e?logo=javascript&logoColor=fffd01&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/bot)
+[<img src="https://img.shields.io/badge/bot-6aa84f?logo=javascript&logoColor=fffd01&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/bot)
 &nbsp;
 
 ## devops projects
