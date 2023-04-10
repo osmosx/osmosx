@@ -7,7 +7,7 @@
 
 [<img src="https://img.shields.io/badge/Telegram-17191e?logo=Telegram&logoColor=2986cc&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://t.me/nenvoy)
 &nbsp;
-[<img src="https://img.shields.io/badge/linkedin-17191e?logo=linkedin&logoColor=2986cc&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />]([https://www.mixcloud.com/osmosmusic/](https://www.linkedin.com/in/denis-chernyavskiy-70023924b/))
+[<img src="https://img.shields.io/badge/linkedin-17191e?logo=linkedin&logoColor=2986cc&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://www.linkedin.com/in/denis-chernyavskiy-70023924b/)
 &nbsp;
 
 ## school 42 projects
