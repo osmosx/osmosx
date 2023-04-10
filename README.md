@@ -5,14 +5,10 @@
   <img width="860" src="./img/lonelyday.gif">
 </p>
 
-[<img src="https://img.shields.io/badge/Telegram-17191e?logo=Telegram&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://t.me/nenvoy)
+[<img src="https://img.shields.io/badge/Telegram-17191e?logo=Telegram&logoColor=2986cc&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://t.me/nenvoy)
 &nbsp;
-[<img src="https://img.shields.io/badge/Mixcloud-17191e?logo=Mixcloud&logoColor=c677ff&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://www.mixcloud.com/osmosmusic/)
+[<img src="https://img.shields.io/badge/linkedin-17191e?logo=linkedin&logoColor=2986cc&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />]([https://www.mixcloud.com/osmosmusic/](https://www.linkedin.com/in/denis-chernyavskiy-70023924b/))
 &nbsp;
-[<img src="https://img.shields.io/badge/Soundcloud-17191e?logo=Soundcloud&logoColor=ff6301&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://soundcloud.com/osmos_music)
-&nbsp;
-<!-- [<img src="https://img.shields.io/badge/Linkedin-17191e?logo=linkedin&logoColor=000203" alt="Flutter logo" title="Flutter" height="25" />](https://t.me/nenvoy)
-&nbsp; -->
 
 ## school 42 projects
 [<img src="https://img.shields.io/badge/libft-f8ff3d?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/libft)
@@ -38,6 +34,8 @@
 [<img src="https://img.shields.io/badge/C++ Piscine-008080?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/cpp_piscine)
 &nbsp;
 [<img src="https://img.shields.io/badge/inception-fffacd?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/inception)
+&nbsp;
+[<img src="https://img.shields.io/badge/inception_of_things-45818e?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/inception_of_things)
 
 ## frontend projects
 [<img src="https://img.shields.io/badge/devosmos-17191e?logo=html5&logoColor=00f62f&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/devosmos)
@@ -49,3 +47,5 @@
 [<img src="https://img.shields.io/badge/leroymerlin-49cd0e?logo=Docker&logoColor=000203&style=for-the-badge" alt="Docker logo" title="Docker" height="25" />](https://github.com/osmosx/leroymerlin)
 &nbsp;
 [<img src="https://img.shields.io/badge/inception-fffacd?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/inception)
+&nbsp;
+[<img src="https://img.shields.io/badge/inception_of_things-45818e?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/inception_of_things)
