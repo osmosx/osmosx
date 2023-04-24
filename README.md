@@ -25,7 +25,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/fdf-D17E6E?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/fdf)
 &nbsp;
-[<img src="https://img.shields.io/badge/philosophers-8C1D40?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/philosophers)
+[<img src="https://img.shields.io/badge/philosophers-423E6E?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/philosophers)
 &nbsp;
 [<img src="https://img.shields.io/badge/minishell-003459?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/minishell)
 &nbsp;
