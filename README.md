@@ -21,9 +21,9 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/pipex-6D4C41?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/pipex)
 &nbsp;
-[<img src="https://img.shields.io/badge/push_swap-D8A352?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/push_swap)
+[<img src="https://img.shields.io/badge/push_swap-3B8686?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/push_swap)
 &nbsp;
-[<img src="https://img.shields.io/badge/fdf-D17E6E?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/fdf)
+[<img src="https://img.shields.io/badge/fdf-6A994E?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/fdf)
 &nbsp;
 [<img src="https://img.shields.io/badge/philosophers-423E6E?logo=42&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/osmosx/philosophers)
 &nbsp;
