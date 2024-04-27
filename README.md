@@ -1,3 +1,9 @@
+<style>
+  h1, h2 {
+    color: red;
+  }
+</style>
+
 # Hello world, my name is Denis
 
 <p align="center">
