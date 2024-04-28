@@ -1,4 +1,4 @@
-# Hello world,my name is Denis
+# Hello world, my name is Denis
 
 <p align="center">
   <img width="860" src="./img/lonelyday.gif">
