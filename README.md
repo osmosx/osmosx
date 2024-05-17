@@ -8,7 +8,8 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/linkedin-17191e?logo=linkedin&logoColor=2986cc&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://www.linkedin.com/in/ch3rnyavskiy)
 &nbsp;
-
+[<img src="https://img.shields.io/badge/instagram-17191e?logo=instagram&logoColor=2986cc&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://www.instagram.com/nenvoy/)
+&nbsp;
 # my projects:
 
 ## school 42
